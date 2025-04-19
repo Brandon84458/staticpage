@@ -12,7 +12,6 @@ dir_path_content = "./content"
 template_path = "./template.html"
 default_basepath = "/"
 
-
 def main():
     basepath = default_basepath
     if len(sys.argv) > 1:
