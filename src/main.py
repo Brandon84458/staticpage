@@ -1,7 +1,6 @@
 from textnode import TextNode, TextType
+from htmlnode import HTMLNode
 
 def main():
-    my_node = TextNode("test text", TextType.LINK, "test.com")
-    print(my_node)
-
+    pass
 main()
